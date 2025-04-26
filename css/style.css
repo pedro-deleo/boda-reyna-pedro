@@ -247,7 +247,7 @@ textarea {
 
 body {
   margin: 0;
-  background-image: url('/img/reyna-pedro/bg-bw.JPG');
+  background-image: url('./img/reyna-pedro/bg-bw.JPG');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
